@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryulkim&show_icons=true&theme=tokyonight)
 
-language</br>
+I learned this language...</br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>

@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobby519)](https://solved.ac/hobby519/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryulkim&show_icons=true&theme=tokyonight)
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>

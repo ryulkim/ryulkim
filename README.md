@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 </br>
 <div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryulkim&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryulkim&show_icons=true&theme=tokyonight&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryulkim&layout=compact)](https://github.com/ryulkim/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobby519)](https://solved.ac/hobby519/)
 </div>
   

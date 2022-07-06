@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryulkim&count_bg=%237A9DFF&title_bg=%23BDBBBB&icon=tripadvisor.svg&icon_color=%2375552F&title=hits&edge_flat=false"/></a>                        
 
-### 👋Hi~ I'm RyulA Kim. I'm a student who studies development.
+### 👋Hi~ I'm RyulA Kim. I'm a student studying development.
 <!--
 **ryulkim/ryulkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

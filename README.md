@@ -1,6 +1,13 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryulkim&count_bg=%237A9DFF&title_bg=%23BDBBBB&icon=tripadvisor.svg&icon_color=%2375552F&title=hits&edge_flat=false"/></a>                        
 
-### 👋Hi~ I'm RyulA Kim. I'm a student studying development.
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryulkim&count_bg=%237A9DFF&title_bg=%23BDBBBB&icon=tripadvisor.svg&icon_color=%2375552F&title=hits&edge_flat=false"/></a>                        
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=RyulA%20Kim&fontSize=90)
+
+<div align="center">  
+
+### 👋Hi~ I'm RyulA Kim. 
+### I'm a student studying development.
+
+
 <!--
 **ryulkim/ryulkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,3 +42,4 @@ Here are some ideas to get you started:
 🌱 I'm currently learning...</br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </pre>
+</div>

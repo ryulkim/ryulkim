@@ -31,7 +31,6 @@ Here are some ideas to get you started:
  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hobby519)](https://solved.ac/hobby519/)
-[![코드트리|실력진단-hobby519](https://banner.codetree.ai/v1/banner/hobby519)](https://www.codetree.ai/profiles/hobby519)
 </div>
   
 <pre>
